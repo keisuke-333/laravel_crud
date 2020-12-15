@@ -8,5 +8,5 @@
 
 - macOS Catalina 10.15.5
 - エディター：Visual Studio Code
-- PHP 7.4.13
-- Laravel 6.20.7
+- PHP：7.4.13
+- Laravel：6.20.7
