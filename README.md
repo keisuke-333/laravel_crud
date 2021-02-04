@@ -1,4 +1,4 @@
-`Laravel`を学習する目的で作成し。  
+`Laravel`を学習する目的で作成
 
 ![mv1](https://user-images.githubusercontent.com/65392082/102189687-5b556000-3efa-11eb-93a8-7a5e7505e510.gif)
 
